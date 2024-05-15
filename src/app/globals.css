@@ -1,0 +1,29 @@
+label {
+  display: block;
+  margin-top: 0.25rem;
+}
+
+#skickaKnapp {
+  display: block;
+  margin: 1rem 0;
+  border-radius: 3px;
+  border: none;
+  background-color: green;
+  color: rgb(255, 255, 255);
+  padding: 0.5rem 1rem;
+}
+
+#skickaKnapp:hover {
+  cursor: pointer;
+  background-color: rgb(2, 101, 2);
+}
+
+#deleteKnapp {
+  color: blue;
+  border: none;
+  background-color: transparent;
+}
+
+#deleteKnapp:hover {
+  cursor: pointer;
+}
